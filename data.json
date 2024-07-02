@@ -26,7 +26,8 @@
 "a4":1702825553057,
 "a5":1702102919109,
 "a6":1702102918345,
-"isProhibit":false,
+"isProhibit":true,
 "notOpenAdFirst":false,
-"isProhibitRead":false
+"isProhibitPlayer":true,
+"isProhibitRead":true
 }
